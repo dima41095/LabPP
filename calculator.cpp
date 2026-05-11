@@ -8,7 +8,7 @@ int main() {
     double num1, num2;
     char operation;
     
-    cout << "===== ПРОСТОЙ КАЛЬКУЛЯТОР =====" << endl;
+    cout << "===== РАСШИРЕННЫЙ КАЛЬКУЛЯТОР =====" << endl;
     cout << "Введите первое число: ";
     cin >> num1;
     
