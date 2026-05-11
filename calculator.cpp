@@ -2,7 +2,7 @@
 #include <clocale>
 #include <cmath>  // для функции pow()
 using namespace std;
-
+// Калькулятор с поддержкой повторных вычислений и счётчиком операций (+, -, *, /, ^)
 int main() {
     setlocale(LC_ALL, "Russian");
     
